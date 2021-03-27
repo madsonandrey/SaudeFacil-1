@@ -1,0 +1,52 @@
+{% extends 'base.html'%}
+{% block content %}
+
+<div class="profissionais-disponiveis">
+    <h2>Profissionais disponíveis</h2>
+        <input id="myInput" type="text" placeholder="Pesquise aqui">
+    <br><br>
+
+        <div>
+            <table class="table">
+      <thead>
+        <tr>
+
+          <th>Nome</th>
+          <th>Sobrenome</th>
+          <th>Especialidade</th>
+          <th>Bairro</th>
+          <th>E-mail</th>
+        </tr>
+      </thead>
+      <tbody id="myTable">
+
+        {% for profissional in usuario_profissional %}
+          <tr>
+            <td>
+              {{ profissional.usuario_profissional.first_name }}
+            </td>
+            <td>
+              {{ profissional.usuario_profissional.last_name }}
+            </td>
+            <td>
+               {{ profissional.especialidades }}
+            </td>
+            <td>
+                {{ profissional.bairro }}
+            </td>
+            <td>
+                {{ profissional.usuario_profissional.email }}
+            </td>
+          </tr>
+        {%endfor%}
+      </tbody>
+            </table>
+
+	</div>
+</div>
+
+</div>
+
+
+
+{%endblock%}

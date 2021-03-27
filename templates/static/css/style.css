@@ -1,0 +1,166 @@
+body{
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.header-top{
+    height: 100px;
+    background: white;
+    position: relative;
+}
+.logotipo{
+     margin-left: 10px;
+     height: 100px;
+}
+
+.header-nav{
+    position: absolute;
+    top: 25px;
+    right: 0;
+    height: 100%;
+
+}
+.header-nav ul{
+    padding-right: 30px;
+}
+.header-nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+}
+.header-nav a{
+    display: block;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 2.5px;
+}
+
+.header-content{
+    height: 520px;
+    padding: 1em;
+    text-align: center;
+    background-image: url('/static/img/back.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.icon-play img{
+    height: 150px;
+    margin-top: 100px;
+}
+.container{
+    margin-top: 100px;
+
+}
+.header-content h1{
+    font-size: 65px;
+    color: #00B706;
+    text-shadow: 3px 3px 5px rgb(62, 97, 64);
+    margin-top: 140px;
+    text-align: center;
+}
+
+.header-content-subtitle{
+    color: #335738;
+    font-size: 35px;
+    line-height: 1.5;
+    text-shadow: 3px 3px 5px rgb(62, 97, 64);
+    margin-top: 15px;
+}
+
+.carousel-inner img {
+    width: 80%;
+    height: 70%;
+    margin: 70px 0;
+}
+
+
+.middle-content-title{
+    font-size: 1.25em;
+    color: #00B706;
+    text-transform: uppercase;
+
+}
+.middle-content p{
+    line-height: 1.5;
+    color: #222;
+}
+
+
+
+
+.footer{
+    background:white;
+	color: white;
+	text-align:center;
+	padding-bottom:5px;
+    margin: auto;
+}
+
+.footer-menushare{
+    background:white;
+    padding: 10px;
+}
+
+.footer-menushare li{
+    display: inline-block;
+    margin: 0 1em;
+}
+.footer-menushare a{
+    font-size: 1.1em;
+    text-decoration: none;
+    color: white;
+}
+.icon{
+    width: 50px;
+}
+.footer p{
+    color: #00B706;
+}
+
+.profissionais-disponiveis{
+    background: ghostwhite;
+    border: #D6F1D8 3px solid;
+    margin: 30px 20px;
+    padding: 50px;
+}
+
+.profissionais-disponiveis h2{
+    background: #D6F1D8;
+    color: #345738;
+    font-family: Candara;
+    font-weight: bold;
+    text-align: center;
+}
+
+.profissionais-disponiveis table{
+    border: #D6F1D8 3px solid;
+    margin-top: 30px;
+}
+
+.menu-paciente{
+    background: ghostwhite;
+    border: #D6F1D8 3px solid;
+    margin: 90px 20px;
+    padding: 40px;
+}
+
+.menu-paciente h2{
+    background: #D6F1D8;
+    color: #1f9f37;
+    font-family: Candara;
+    font-weight: bold;
+    text-align: center;
+}
+
+.menu-paciente table{
+    border: #D6F1D8 3px solid;
+    margin-top: 30px;
+}
+
+.menu-paciente div{
+    margin: auto;
+}

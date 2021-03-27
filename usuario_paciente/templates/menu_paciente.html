@@ -1,0 +1,21 @@
+{% extends 'base.html'%}
+{% block content %}
+
+<div class="menu-paciente">
+<div class="container">
+      <h2> Olá, {{ usuario_paciente.usuario_paciente.first_name}} {{ usuario_paciente.usuario_paciente.last_name}}!</h2>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th><a href="{% url 'lista_profissionais'%}" accesskey="1" title="">Profissionais disponíveis</a></th>
+        <th><a href="{% url 'editar_paciente' usuario_paciente.id %}" accesskey="2" title="">Editar</a></th>
+        <th><a href="{% url 'logout_paciente'%}" accesskey="3" title="">Logout</a></th>
+        <th><a href="{% url 'deletar_paciente' usuario_paciente.id %}" accesskey="4" title="">Deletar conta</a></th>
+      </tr>
+    </thead>
+  </table>
+</div>
+</div>
+{%endblock%}
+

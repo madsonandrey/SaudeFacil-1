@@ -1,0 +1,17 @@
+{% extends 'base.html'%}
+{% block content %}
+
+<div class="container">
+      <h2> SEJA BEM VINDO(A), {{ usuario_profissional.usuario_profissional.first_name}} {{ usuario_profissional.usuario_profissional.last_name}}</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th><a href="{% url 'lista_profissionais'%}" accesskey="1" title="">Profissionais disponíveis</a></th>
+        <th><a href="{% url 'editar_pro' usuario_profissional.id %}" accesskey="2" title="">Editar</a></th>
+        <th><a href="{% url 'logout_pro'%}" accesskey="3" title="">Logout</a></th>
+        <th><a href="{% url 'deletar_profissional' usuario_profissional.id %}" accesskey="4" title="">Deletar conta</a></th>
+      </tr>
+    </thead>
+  </table>
+</div>
+{%endblock%}

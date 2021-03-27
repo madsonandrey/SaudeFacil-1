@@ -1,0 +1,20 @@
+{%extends 'base.html'%}
+
+{%block content%}
+
+<div class="container-main">
+    <form action="{%url 'cadastro_pro'%}" method="POST" enctype="multipart/form-data">
+         {% csrf_token %}
+        <table class="table">
+            {{form1}}
+            {{form2}}
+            <tr>
+                <td colspan="2">
+                    <br>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+{%endblock%}
