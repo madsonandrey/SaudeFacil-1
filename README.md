@@ -1,5 +1,3 @@
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/Animated%20GIF-downsized_large.gif"/>
-
 ## Saúde Fácil
 
 Projeto baseado em consultas, visando atender os pacientes com busca por profissionais da área de saúde ou clínicas e, consequentemente, gerar visibilidade para os mesmos.
@@ -17,7 +15,7 @@ Projeto baseado em consultas, visando atender os pacientes com busca por profiss
 - ##### Front-End: 
 
   HTML5, CSS3, JavaScript. Em conjunto com Bootstrap 4.
-
+                                                                                    
 - ##### Banco de Dados: 
 
   MySQL
@@ -27,3 +25,5 @@ Projeto baseado em consultas, visando atender os pacientes com busca por profiss
   Trello
 
  Status do Projeto: Em constante desenvolvimento :warning:
+<p align="center">
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/Animated%20GIF-downsized_large.gif" width="70%" height="80%" />
