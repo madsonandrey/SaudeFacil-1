@@ -1,4 +1,4 @@
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/Animated%20GIF-downsized_large.gif" width="70%" height="70%"/>
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/Animated%20GIF-downsized_large.gif"/>
 
 ## Saúde Fácil
 
