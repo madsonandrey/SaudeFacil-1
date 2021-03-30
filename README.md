@@ -26,4 +26,4 @@ Projeto baseado em consultas, visando atender os pacientes com busca por profiss
 
  Status do Projeto: Em constante desenvolvimento :warning:
 <p align="center">
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/Animated%20GIF-downsized_large.gif" width="100%" height="100%" />
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/Animated%20GIF-downsized_large.gif" width="70%" height="70%" />
