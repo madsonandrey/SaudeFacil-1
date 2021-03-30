@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/SaudeFacil~1%2000_00_00-00_00_30.gif)
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/SaudeFacil~1%2000_00_00-00_00_30.gif" width="40" height="40" />
 
 ## Saúde Fácil
 
