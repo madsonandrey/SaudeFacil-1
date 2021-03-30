@@ -1,6 +1,6 @@
 ## Saúde Fácil
 
-Projeto baseado em consultas, visando atender os pacientes com buscar por profissionais da área de saúde ou clínicas e, consequentemente, gerar visibilidade para os mesmos.
+Projeto baseado em consultas, visando atender os pacientes com busca por profissionais da área de saúde ou clínicas e, consequentemente, gerar visibilidade para os mesmos.
 
 ## Visão Geral
 
