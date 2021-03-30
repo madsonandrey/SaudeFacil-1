@@ -23,3 +23,5 @@ Projeto baseado em consultas, visando atender os pacientes com buscar por profis
 - ##### Metodologias Ágeis:
 
   Trello
+
+ Status do Projeto: Em constante desenvolvimento :warning:
