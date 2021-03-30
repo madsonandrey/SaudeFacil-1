@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1IGFt_WLdAv0aykVdAhePhwu_rz363MjV/view?usp=sharing" width="100%" height="100%" />
+<img src="https://media.giphy.com/media/lnXOTvESUsPtMDYpXH/giphy.gif" width="100%" height="100%" />
 
 ## Saúde Fácil
 
