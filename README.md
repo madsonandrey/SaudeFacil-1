@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/lnXOTvESUsPtMDYpXH/giphy.gif" width="70%" height="70%" text-align: center;/>
+<img src="https://media.giphy.com/media/lnXOTvESUsPtMDYpXH/giphy.gif" width="70%" height="70%"/>
 
 ## Saúde Fácil
 
